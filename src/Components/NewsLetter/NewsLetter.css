@@ -1,0 +1,10 @@
+.newsletter{
+    background: linear-gradient(180deg, #fde1ff,#e1ffea22 60%);
+}
+
+.newsletter h1{
+    color: #454545;
+    font-size: 35px;
+    font-weight: 600;
+   
+}

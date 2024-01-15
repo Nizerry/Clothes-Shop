@@ -1,0 +1,21 @@
+.productdisplay-left-img-list img{
+        width: 110px;
+        height: 110px;
+        object-fit: contain;
+        margin-bottom: 7px;
+}
+
+.star img{
+        object-fit: contain;
+        height: 15px;
+}
+
+.size-btn div{
+        width: 45px;
+        height: 40px;
+        outline: none;
+        border: 1px solid #fbfbfb;
+        background-color: #ebebeb;
+        padding: 6px 12px;
+        cursor: pointer;
+}
